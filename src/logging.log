@@ -1,0 +1,6 @@
+13:12:05,347 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): free-proxy-list.net:443
+13:12:05,925 urllib3.connectionpool DEBUG https://free-proxy-list.net:443 "GET / HTTP/1.1" 200 None
+13:12:06,23 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): user-agents.net:443
+13:12:06,179 urllib3.connectionpool DEBUG https://user-agents.net:443 "GET /random HTTP/1.1" 200 None
+13:12:06,202 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): httpstat.us:443
+13:12:07,43 urllib3.connectionpool DEBUG https://httpstat.us:443 "GET /404 HTTP/1.1" 404 13
